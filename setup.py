@@ -8,7 +8,7 @@ setup(
     description="A Python library implementing the Jaya Optimization Algorithm.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Ravikumar-Shah-2804e/jaya-optimizer",
+    url="https://github.com/Ravikumar-Shah-2804/jaya-optimizer.git",
     packages=find_packages(),
     install_requires=[
         "numpy",
