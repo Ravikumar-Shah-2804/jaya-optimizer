@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jaya Optimization Algorithm
 
 The **JayaOptimizer** is a Python library that implements the Jaya Optimization Algorithm, a population-based optimization technique. It is designed to solve continuous, discrete, and mixed-variable optimization problems efficiently.
@@ -23,4 +22,4 @@ pip install jaya-optimizer
 =======
 # jaya-optimizer
 The Jaya algorithm is a metaheuristic which is capable of solving both constrained and unconstrained optimization problems. It is a population based method which repeatedly modifies a population of individual solutions. It is a gradient-free optimization algorithm.
->>>>>>> 8ff3223b4554e2c89815dda496018fec85abefa7
+
